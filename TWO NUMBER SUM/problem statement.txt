@@ -1,0 +1,10 @@
+    
+     Two number sum
+
+     write a function that takes in a non-empty array of distinct intigers representing a target sum.if any
+     two number is the input array upto the target sum, the function should them in array, in sorted oder.
+     if no two number sum up to the target sum,the function should return a empty array.Assume that there 
+     will be atmost one pair of number summing up to the target sum.
+
+     Sample input-[3,5,-4,8,11,1,-1,6]10
+     Sample output-[-1,11] 
